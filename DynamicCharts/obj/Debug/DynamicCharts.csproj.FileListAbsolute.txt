@@ -1,0 +1,6 @@
+C:\Users\Training\Documents\Training Projects\DynamicCharts\DynamicCharts\bin\DynamicCharts.dll.config
+C:\Users\Training\Documents\Training Projects\DynamicCharts\DynamicCharts\bin\DynamicCharts.dll
+C:\Users\Training\Documents\Training Projects\DynamicCharts\DynamicCharts\bin\DynamicCharts.pdb
+C:\Users\Training\Documents\Training Projects\DynamicCharts\DynamicCharts\obj\Debug\DynamicCharts.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Training Projects\DynamicCharts\DynamicCharts\obj\Debug\DynamicCharts.dll
+C:\Users\Training\Documents\Training Projects\DynamicCharts\DynamicCharts\obj\Debug\DynamicCharts.pdb
